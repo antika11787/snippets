@@ -6,6 +6,7 @@
     "dev": "next dev -p 8080",
     "build": "next build",
     "start": "next start",
+    "bs": "npm run build && npm run start",
     "lint": "next lint"
   },
   "dependencies": {
